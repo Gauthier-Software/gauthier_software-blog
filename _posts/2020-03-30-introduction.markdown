@@ -15,7 +15,7 @@ for small and medium sized businesses.
 
 Gauthier Software is my personal company, and has been in business since 2014.
 My main services offering is my technical expertise related to research and
-experimental development, and system design. You can have a look at my
+experimental development, and systems design. You can have a look at my
 [company website][gauthier.software] for a full list of services.
 
 I have decided to start this blog as an incentive for myself to give back to the
