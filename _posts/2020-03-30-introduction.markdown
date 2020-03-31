@@ -3,15 +3,14 @@ layout: post
 title:  "Introduction"
 date:   2020-03-30 16:00:00 -0400
 categories: update
+tags: about
+image: '/assets/img/biximilien.jpg'
+full_image: '/assets/img/biximilien-resized.jpg'
 ---
-
-Welcome to my blog!
-
-My name is Maxime Gauthier and I go by the alias biximilien online.
-
-I am a ruby developer with a background in research and experimental development.
-My work is focused on open source technologies to create innovative solutions
-for small and medium sized businesses.
+Welcome to my blog! My name is Maxime Gauthier and I go by the alias biximilien
+online. I am a ruby developer with a background in research and experimental
+development. My work is focused on open source technologies to create innovative
+solutions for small and medium sized businesses.
 
 Gauthier Software is my personal company, and has been in business since 2014.
 My main services offering is my technical expertise related to research and

@@ -1,0 +1,15 @@
+@import "../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/brands.scss";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/solid.scss";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/regular.scss";
+
+$primary: #333333;
+$link: lighten($primary, 20%);
+
+@import "../node_modules/bulma/bulma.sass";
+
+$footer-height: 10.5rem;
+
+#content {
+  min-height: calc(100vh - #{$navbar-height + $footer-height});
+}
